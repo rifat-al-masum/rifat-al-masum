@@ -10,7 +10,7 @@ I build practical AI-assisted web and mobile tools, turning ideas from prompt an
 
 ### Featured Public Projects
 
-- **[Project Name 1]** — Mudir Hisab is a modern, lightweight, and completely offline mobile-first application built for grocery store product inventory and fast customer billing or accounting. [Release](https://rifat-al-masum.github.io/Mudi-Hisab/))
+- **[Project Name 1]** — *(Mudi Hisab)* is a modern, lightweight, and completely offline mobile-first application built for grocery store product inventory and fast customer billing or accounting. [Release](https://rifat-al-masum.github.io/Mudi-Hisab/))
 
 ---
 
